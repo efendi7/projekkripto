@@ -5,4 +5,5 @@ Projek Kripto membuat GUI untuk menguji S-BOX dengan opsi (NL, SAC, LAC, DAP, BI
 disini saya menjelaskan bagaimana menjalankan GUI Streamlit.
 
 ### Langkah 1
-Buka github
+clone kode
+git clone https://github.com/username/repository.git
