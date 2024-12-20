@@ -6,5 +6,5 @@ disini saya menjelaskan bagaimana menjalankan GUI Streamlit.
 
 ### Langkah 1
 clone kode
-git clone https://github.com/username/repository.git
+git clone https://github.com/efendi7/projekkripto.git
 ![ss_clone](img/ss tahap penggunaan gui/Screenshot 2024-12-20 214121.png)
